@@ -766,9 +766,9 @@ object {
     .gallery-columns-4 .gallery-item,
     .large-columns-4>.col,
     .large-columns-4 .flickity-slider>.col {
-        max-width: 25%;
+        max-width: 33%;
         -ms-flex-preferred-size: 25%;
-        flex-basis: 25%
+        flex-basis: 33%
     }
 
     .gallery-columns-5 .gallery-item,
