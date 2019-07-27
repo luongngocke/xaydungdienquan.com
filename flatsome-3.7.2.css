@@ -503,9 +503,9 @@ object {
 
 .small-columns-4>.col,
 .small-columns-4 .flickity-slider>.col {
-    max-width: 25%;
+    max-width: 33%;
     -ms-flex-preferred-size: 25%;
-    flex-basis: 25%
+    flex-basis: 33%
 }
 
 .small-columns-5>.col,
@@ -632,9 +632,9 @@ object {
 
     .medium-columns-4>.col,
     .medium-columns-4 .flickity-slider>.col {
-        max-width: 33%;
+        max-width: 25%;
         -ms-flex-preferred-size: 25%;
-        flex-basis: 33%
+        flex-basis: 25%
     }
 
     .medium-columns-5>.col,
