@@ -762,7 +762,11 @@ object {
         -ms-flex-preferred-size: 33.33333%;
         flex-basis: 33.33333%
     }
-
+colfooter {
+        max-width: 25%;
+        -ms-flex-preferred-size: 25%;
+        flex-basis: 25%
+    }
     .gallery-columns-4 .gallery-item,
     .large-columns-4>.col,
     .large-columns-4 .flickity-slider>.col {
